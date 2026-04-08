@@ -34,10 +34,6 @@ A simple, clean, and free web-based tool to create student result sheets and pri
   <img src="photo/contact.png" width="100%" height="400">
 </p>
 
-<p align="center">
-  <img src="photo/thankyou.png" width="100%" height="400">
-</p>
-
 <hr>
 
 <h2>🛠️ Technologies Used</h2>
