@@ -89,7 +89,7 @@ Contact form is integrated using Formspree (no backend required).
 <h2>📌 Installation</h2>
 
 <pre>
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/developer-abu/marksheet.git
 cd your-repo-name
 </pre>
 
