@@ -89,8 +89,9 @@ Contact form is integrated using Formspree (no backend required).
 <h2>📌 Installation</h2>
 
 <pre>
+
 git clone https://github.com/developer-abu/marksheet.git
-cd your-repo-name
+
 </pre>
 
 <p>Then open <b>index.html</b> in your browser.</p>
@@ -109,6 +110,16 @@ cd your-repo-name
 
 <hr>
 
+<h2>📌 Live Link</h2>
+
+<pre>
+
+https://marksheetgenerator-blond.vercel.app/
+
+</pre>
+
+<hr>
+ 
 <h2>⭐ Support</h2>
 
 <p>If you like this project, give it a ⭐ on GitHub!</p>
