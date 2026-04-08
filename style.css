@@ -1,0 +1,107 @@
+.custom_hover:hover{
+background-color: rgb(107, 244, 114);
+padding: 2px;
+border-radius: 8px;
+border: 1px solid blue;
+}
+.custom_color{
+    color:#ffffff;
+    font-family: Poppins;
+  
+}
+.custom_color_hover:hover{
+    color: black;
+}
+
+
+.custom_class_for_footer_a_tag:hover{
+background-color: aqua;
+border-radius: 5px;
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .custom_position_md_device{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+}
+
+
+.custom_font{
+    font-family: Poppins;
+}
+
+
+@media (max-width: 500px)  {
+  input::placeholder {
+    font-size: 12px;
+    text-transform: capitalize;
+  }
+}
+
+@media (max-width: 575px)  {
+.custom_mt_for_signature{
+    margin-top: 30px;
+}
+}
+
+
+/*  print screen design  */
+
+@media print {
+
+    #siteHeading{
+        display: none;
+    }
+    #inputForm{
+        display: none;
+    }
+    #printBTN{
+        display: none;
+    }
+@page {
+    size: A4;
+    margin: 10mm;
+  }
+body {
+    font-size: 12pt;
+    color: black;
+  }
+
+  * {
+    background: none !important;
+    box-shadow: none !important;
+  }
+
+
+ table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border: 1px solid black;
+    padding: 6px;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+
+   tr {
+    page-break-inside: avoid;
+  }
+
+
+ * {
+    color: black !important;
+  }
+
+}
+
+
+.cs_font{
+    font-family: Poppins;
+}
